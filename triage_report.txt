@@ -1,0 +1,20 @@
+Report Author Attribution: barbiegivesoutcookies
+
+================================================================================
+IocEnrichmentEngine v1.0 - Threat Intelligence Lookup Tool
+Copyright (c) 2026 barbiegivesoutcookies. All Rights Reserved.
+================================================================================
+
+ ----------------------------------------------------------------
+  DOMAIN ROUTINE - LIVE DNS RESOLUTION + URLHAUS CROSS-REFERENCE
+ ----------------------------------------------------------------
+ [i] Output reflects live DNS A/AAAA resolution and abuse.ch URLhaus activity; passive-DNS history is out of scope.
+ [+] Domain Auth: ANONYMOUS FEED FALLBACK
+ [-] Live DNS resolution (A/AAAA records):
+     A    : 185.15.58.224
+ [!] abuse.ch URLhaus refused anonymous access (HTTP 401): the feed requires a free registered Auth-Key - set URLHAUS_AUTH_KEY for domain feed lookups.
+
+ ----------------------------------------------------------------
+  SUMMARY
+ ----------------------------------------------------------------
+ [+] ANALYSIS RESULT: NO HIGH-RISK FINDINGS (exit code 0).
